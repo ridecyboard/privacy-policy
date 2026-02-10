@@ -1,7 +1,3 @@
-Harika, bu metin uygulamanın işleyişine tam oturdu. Apple ve Google, özellikle Bluetooth için neden konum izni istendiğini bu şekilde dürüstçe açıklayan metinleri çok daha hızlı onaylıyor.
-
-İşte bu metnin profesyonel ve mağaza standartlarına uygun İngilizce çevirisi:
-
 Cyboard Privacy Policy
 1. Introduction
 This Privacy Policy explains what information the Cyboard mobile application processes and why. The application is developed by Cyboard. Cyboard is a tool that allows you to monitor riding information such as speed, battery status, and voice notifications by connecting to your electric skateboard.
